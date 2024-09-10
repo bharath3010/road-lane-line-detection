@@ -1,8 +1,7 @@
-# road-lane-line-detection.
- "Road Lane Line Detection System using Computer Vision."
-
 # Road Lane Line Detection System
 
+ "Road Lane Line Detection System using Computer Vision."
+ 
 ## Overview
 This project detects lane markings on the road using image processing techniques to improve road safety. The system is built using Python and OpenCV.
 
